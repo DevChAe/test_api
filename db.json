@@ -1,10 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "posts": {
+    "message": "",
+	  "responseCode": 900,
+	  "data": {
+		  "result": "FAIL",
+		  "message": "이용에 불편을 드려 죄송합니다.\n\n서비스 안정과 성능향상을 위한\n서비스 점검중입니다.\n\n(점검시간: 2024년 5월 20일 오후 10:00~11:00)"
+	  }
+  },
   "profile": {
     "name": "typicode"
   }
